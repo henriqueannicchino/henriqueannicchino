@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Luis Henrique(Henrique Annicchino) 👋</h2>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Computer Science Bachelor</h3>
 
 <div align="center">
   <a href="https://github.com/henriqueannicchino">
