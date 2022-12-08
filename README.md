@@ -3,8 +3,6 @@
 
 <div align="center">
   <a href="https://github.com/henriqueannicchino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueannicchino&show_icons=true&theme=github_dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueannicchino&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
