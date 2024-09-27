@@ -25,4 +25,6 @@
   <a href="https://www.linkedin.com/in/luis-henrique-211aaa1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![GitHub Snake](https://github.com/henriqueannicchino/henriqueannicchino/blob/output/github-snake-dark.svg)
   
